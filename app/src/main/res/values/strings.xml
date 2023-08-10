@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textoBotaoSomar">+</string>
+    <string name="textoBotaoSubtrair">-</string>
+    <string name="textoBotaoDividir">÷</string>
+    <string name="textoBotaoMultiplicar">X</string>
+
+</resources>
